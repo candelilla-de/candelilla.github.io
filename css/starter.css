@@ -1,0 +1,23 @@
+.starter {
+  position: absolute;
+  left: 50%;
+  top: 15rem;
+  transform: translate(-50%,-50%);
+  width: 20rem;
+  display: none;
+  z-index: 1000;
+}
+
+@media (min-width: 37.5rem) {
+  .starter {
+    width: 30rem;
+  }
+}
+
+@media (min-width: 64rem) {
+  .starter {
+    width: 42rem;
+    top: 20.5rem;
+    transform: translate(-50%,-50%);
+  }
+}

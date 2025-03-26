@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="old">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/old/candelilla_info2012.zip!/" />
+      <root url="jar://$PROJECT_DIR$/old/promo_mp3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
